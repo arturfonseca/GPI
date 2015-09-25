@@ -1,0 +1,26 @@
+WHAT?
+
+Develop a document management system for the company iRetail, made of the following modules:
+º Document management and workflow
+º Invoices approval
+º Purchasing management
+which shall be developed on top of an existing framework and workflow engine.
+
+The project will also include the preparation of the current resource plan and workers, and testing the system:
+º Integration with the existing resource planning
+º Training of K-users and IT engineers
+º A pilot test of the system
+
+WHY?
+To create a valuable solution to the company's problem, integrating their existing system with the one we develop. Removing their limitations, and thus satisfying them, will improve the relation between the Company and us.
+
+
+SUCCESS CRITERIA
+-CRITERIA
+
+
+-EXPECTED BENEFICTS
+
+
+SUCCESS FACTORS
+
