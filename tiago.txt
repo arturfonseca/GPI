@@ -28,3 +28,17 @@ this is causing several problems such as:
  - difficulty to manage documents physical location and storage 
  
  
+ ::::::::::::::success criteria:::::::::::::
+  - The project plan must be approved until November 20th
+  - The pilot must start immediately after acceptance tests approval
+  - The system should be operational five months after project plan approval
+  - The external supplier must offer a minimum warranty of 3 months 
+  - The accepted budget variance shall be less then 6%
+  - Number of non-conformities during acceptance tests – not greater than 10%
+  - Time for non-conformities correction – less than 48 hours
+  - Training sessions evaluation – not less than 3,75 (in a 0 to 5 scale)
+  - Easy to learn;
+  - Easy to use, not requiring specific background for IRetail employees.
+ 
+ Not sure about the last 2
+ 
