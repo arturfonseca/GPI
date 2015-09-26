@@ -1,0 +1,30 @@
+::::::::::::::what:::::::::::::
+
+A new information system implementation, DM4iRetail, available to anyone within the company.
+This shall include a set of different modules as listed:
+	
+	- Document management and workflow (DM)
+	- Invoices approval (IA)
+	- Purchasing management (PM)
+
+ 
+ and also:
+ 
+ - Integration with the existing ERP
+ - K-users training
+ - Technical training
+ - A pilot to evaluate the system operability 
+ 
+
+::::::::::::::why:::::::::::::
+
+As a natural consequence of the fast growth of the Iretail Company, there is 
+a huge flow of documents that represents a large volume of paper information,
+this is causing several problems such as:
+
+ - Loss of documents
+ - difficulty on searching and accessing information
+ - difficulty to control how the information flows
+ - difficulty to manage documents physical location and storage 
+ 
+ 
