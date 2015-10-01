@@ -1,8 +1,5 @@
-virar wbs
-groups
-nome do alberto na capa
+﻿virar wbs
 increase the suppliers' satisfactiom -> client
-expected - after 1y
 na descrição, especificar o que é o what e o why
 em Proj Management, fazer Arranque Controlo Encerramento
 ids do WP, milestone e deliverable (exemplo: deliverable do plano do projecto)
