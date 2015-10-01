@@ -1,3 +1,6 @@
 virar wbs
 groups
 nome do alberto na capa
+increase the suppliers' satisfactiom -> client
+expected - after 1y
+na descrição, especificar o que é o what e o why
