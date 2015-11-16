@@ -1,0 +1,31 @@
+D1 - Proposal (/RFP/caderno de encargos/tender)
+
+> (E1 + E2)
+
+> Project Quality
+  º Quality Assurance Activities (escritas no gantt)
+  º Quality Control Activities (^)
+  º Acceptance Criteria (para os deliverables principais, incluindo do SI)
+
+__new v__
+
+> Project Risks
+  º Risk Register (template do Triskell para gestão de riscos)
+
+> Price and Supplier Conditions (isto num excel ou não)
+  º Licences Price (nós temos que comprar, ver abaixo)
+  º Service Price (micro procurement para o produto sobre o qual se integra)
+  º Invoice Plan (plano das facturas, ao longo dos meses)
+  º Payment Conditions (30 ou 60 dias depois da factura começa o pagamento)
+
+D2 - Internal Evaluation Proposal
+
+> Finantial Evaluation (isto num excel, como na aula) (usar como input a resource table)
+  - Costs
+  - Profits
+  - Cash Flow
+
+> Resource Table (usar o do lab passada, tabela de rec genericos e concretos no triskell)
+  - Generic Resources
+  - Concrete Resources
+  - etc...
